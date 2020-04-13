@@ -11,7 +11,6 @@ public class Actitime_login_logout {
 	}
 	public void project_url(String url){
 		driver.get(url);
-		
 	}
 	public void enter_text(WebElement obj,String text){
 		//System.out.println("object ="+obj);
